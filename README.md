@@ -27,5 +27,7 @@ Future Enhancements
 - Implement a video player for streaming functionality.
 
 Screenshots
-[Include screenshots of your Netflix clone here to showcase its design.]
+[Include screenshots of your Netflix clone here to showcase its design.]_
+![Screenshot 2025-04-13 135037](https://github.com/user-attachments/assets/307eee22-047d-4ec4-a587-d4836752cb20)
+___
 Contributing
