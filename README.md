@@ -11,7 +11,7 @@ A Netflix clone developed using **HTML**, **CSS**, and **JavaScript** that repli
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/netflix-clone.git
+   git clone https://nsanjayboruds.github.io/NETFLIX--CLONE/
 2. CDN:
     <script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
  Technology Stack
