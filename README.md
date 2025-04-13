@@ -12,7 +12,8 @@ A Netflix clone developed using **HTML**, **CSS**, and **JavaScript** that repli
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/netflix-clone.git
-
+2. CDN:
+    <script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
  Technology Stack
 - HTML: The backbone for structuring the webpage.
 - CSS: For styling and layout enhancements.
