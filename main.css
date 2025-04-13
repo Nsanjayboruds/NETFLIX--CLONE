@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(https://wallpapers.com/images/hd/netflix-background-gs7hjuwvv2g0e9fj.jpg);
+}
+nav a{
+    text-decoration: none;
+    color: white;
+
+}
+nav a:hover {
+    text-decoration: underline;
+    color: red;
+}
